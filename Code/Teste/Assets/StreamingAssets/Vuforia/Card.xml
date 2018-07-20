@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="energy" size="5.000000 6.944445" />
+    <ImageTarget name="tangela" size="5.000000 6.923077" />
+    <ImageTarget name="Pineco" size="5.000000 6.973684" />
+    <ImageTarget name="Teddiursa" size="5.000000 6.845703" />
+    <ImageTarget name="clefa" size="5.000000 6.987577" />
+  </Tracking>
+</QCARConfig>
